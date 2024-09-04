@@ -1,4 +1,9 @@
 # Canada C3: A coast to coast to coast expedition
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="www/landing-map.jpg">
+</picture>
 In 2017, as an initiative of the Students on Ice Foundation (SOI Foundation), and with support from the Government of Canada and a variety of partners, the Canada C3 expedition travelled on the MV Polar Prince icebreaker along Canada's Atlantic, Arctic and Pacific coastlines, from Toronto to Victoria via the Northwest passage. This expedition brought together a diverse group of Canadians to explore Canada's coastline while reflecting on the journey's core themes of Diversity and Inclusion, Reconciliation, Youth Engagement and the Environment (Canada C3, 2017). During the 150-day expedition, opportunistic surface water samples were collected along the journey by the crew and project participants over 15 legs. The final pan-Canadian dataset resulted in one hundred eDNA samples collected along the Atlantic, Arctic and Pacific coasts of Canada. To learn more about the expedition, please visit https://canadac3.ca/en/homepage/
 
 # What is eDNA?
