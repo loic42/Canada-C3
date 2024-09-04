@@ -1,3 +1,10 @@
+# Description
+This repository contains the code to the Canada C3 shiny app: https://fjedna.shinyapps.io/CanadaC3_shiny/. The interactive map shows the eDNA index value associated with each species detected by eDNA during our sampling events. This species-specific index ranges from 0 (no DNA detected for the species) to 1 (maximum proportion of DNA detected for the species across all samples). The index reflects changes in the relative biomass (or proportion) of the species but do not reflect absolute changes in biomass. The index values can be used to assess spatial variations of biomass for a given species.
+
+# Citation
+The complete analysis and results of the Canada C3 eDNA dataset have been described in: 
+**Jacquemot L, Hunt BPV, Li S, Schulze A, Deeg CM, Sutherland BJG, Tabata A, Lovejoy C, Miller KM (2024). Mapping biodiversity coast-to-coast-to-coast across Canada’s three oceans using eDNA metabarcoding. Environmental DNA.**
+
 # Canada C3: A coast to coast to coast expedition
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="www/landing-map.jpg">
@@ -8,6 +15,3 @@ In 2017, as an initiative of the Students on Ice Foundation (SOI Foundation), an
 
 # What is eDNA?
 Marine eDNA is organism DNA in the water from microbial cells, organisms' tissues, skin and scales, metabolic waste, or dissolved molecules. A sample of eDNA simply requires a collection of fixed volume of water and collection of associated eDNA onto a filter. Extraction and sequencing of this DNA can be used to investigate the taxonomic composition of whole marine communities ranging from invertebrates to fish and marine mammals.
-
-# How to interpret the interactive map?
-You can access the app here: https://fjedna.shinyapps.io/CanadaC3_shiny/. The map shows the eDNA index value associated with each species detected by eDNA during our sampling events. This species-specific index ranges from 0 (no DNA detected for the species) to 1 (maximum proportion of DNA detected for the species across all samples). The index reflects changes in the relative biomass (or proportion) of the species but do not reflect absolute changes in biomass. The index values can be used to assess spatial variations of biomass for a given species.
