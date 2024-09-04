@@ -148,7 +148,3 @@ server = function(input, output, session){
 
 # Run app ----
 shinyApp(ui, server)
-
-# see here to deploy on a html page : https://www.shinyapps.io/admin/#/dashboard
-# NB: does not work well when integrated into OneDrive
-#rsconnect::deployApp('C:/Users/loicj/Documents/03_Shiny_C3/CanadaC3_Shiny_map/census-app-C3_V3', appName="CanadaC3_shiny")
